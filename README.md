@@ -1,10 +1,14 @@
 <h1 align="center">Hi 👋, I'm Abhinav Chaudhary</h1>
 <h3 align="center">Currently a student</h3>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
-
+## About me 👨🏻‍💻 
+    
+👋 I am primarily interested in Electronics and Competitive Programming
+<br>
+🌱 I' love watching anime and like to code
+<br>
+💞️ I’m looking forward to collaborate on GitHub with other open source enthusiasts .
+<br>
 <br>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -13,6 +17,13 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lan10rn&show_icons=true&locale=en&layout=compact" alt="lan10rn" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lan10rn&show_icons=true&locale=en" alt="lan10rn" /></p>
+
+
+<div align=center>
+    <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
+      <img align="center" width=100% src="https://github-profile-trophy.vercel.app/?username=lan10rn&theme=onedark&column=8" alt="zumrudu-anka" />
+    </a>
+</div>
 
 <hr>
 <table>
