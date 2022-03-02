@@ -28,9 +28,9 @@
 <hr>
 <table>
 <tr>
-<td align="center"><a href="https://codeforces.com/profile/lan10rn"><img src="https://github.com/AnuvabSen1/AnuvabSen1/blob/main/images/download.png" width="270" height ="400"/></a></br> <h4 style="color:red;">Codeforces Profile</h4>
-<td align="center"><a href="https://www.hackerrank.com/lan10rn"><img src="https://github.com/AnuvabSen1/AnuvabSen1/blob/main/images/hackerrank.jpg" width="270" height ="400"/><h4 style="color:red;">Hackerrank Profile</h4>
-<td align="center"><a href="https://www.codechef.com/users/abhc"><img src="https://github.com/AnuvabSen1/AnuvabSen1/blob/main/images/104332501-41696600-5516-11eb-8cbe-ee755e31a01c.png" width="270" height ="400"/><h4>Codechef Profile</h4>
+<td align="center"><a href="https://codeforces.com/profile/lan10rn"><img src="https://github.com/AnuvabSen1/AnuvabSen1/blob/main/images/download.png" width="270" height ="270"/></a></br> <h4 style="color:red;">Codeforces Profile</h4>
+<td align="center"><a href="https://www.hackerrank.com/lan10rn"><img src="https://github.com/AnuvabSen1/AnuvabSen1/blob/main/images/hackerrank.jpg" width="270" height ="270"/><h4 style="color:red;">Hackerrank Profile</h4>
+<td align="center"><a href="https://www.codechef.com/users/abhc"><img src="https://github.com/AnuvabSen1/AnuvabSen1/blob/main/images/104332501-41696600-5516-11eb-8cbe-ee755e31a01c.png" width="270" height ="270"/><h4>Codechef Profile</h4>
 </table>
 
 
