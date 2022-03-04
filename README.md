@@ -29,7 +29,7 @@
 <table>
 <tr>
 <td align="center"><a href="https://codeforces.com/profile/lan10rn"><img src="https://github.com/AnuvabSen1/AnuvabSen1/blob/main/images/download.png" width="270" height ="250"/></a></br> <h4 style="color:red;">Codeforces Profile</h4>
-<td align="center"><a href="https://www.hackerrank.com/lan10rn"><img src="https://github.com/lan10rn/lan10rn/blob/main/img/hackerrank.png" width="270" height ="250"/><h4 style="color:red;">Hackerrank Profile</h4>
+<td align="center"><a href="https://www.hackerrank.com/lan10rn"><img src="https://github.com/lan10rn/lan10rn/blob/main/img/600px-HackerRank_logo.png" width="270" height ="250"/><h4 style="color:red;">Hackerrank Profile</h4>
 <td align="center"><a href="https://www.codechef.com/users/abhc"><img src="https://github.com/AnuvabSen1/AnuvabSen1/blob/main/images/104332501-41696600-5516-11eb-8cbe-ee755e31a01c.png" width="270" height ="250"/><h4>Codechef Profile</h4>
 </table>
 
